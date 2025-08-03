@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 🏥 Hospital Management System (C++)
 📌 Overview
@@ -83,8 +84,6 @@ Email/SMS notifications for appointments
 
 More detailed patient medical history tracking
 
-📄 License
-This project is licensed under the MIT License. used to including this Lol
 
 
 
@@ -94,3 +93,9 @@ This project is licensed under the MIT License. used to including this Lol
 
 
 
+
+
+=======
+# Hospital-Management-System
+A c++ based project for an hospital management system                                                                                                   
+>>>>>>> 61217702722c2764fa007faee128761fe1529545
